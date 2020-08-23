@@ -21,12 +21,12 @@ Hi, I'm Su Hoang An, a final-year student 🚀 from HUFLIT. Beside's programming
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://simpleicons.org/icons/sass.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="20" src="https://simpleicons.org/icons/csharp.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://simpleicons.org/icons/visualstudiocode.svg"></code>
+<code><img height="20" src="https://simpleicons.org/icons/visualstudio.svg"></code>
+<code><img height="20" src="https://simpleicons.org/icons/bootstrap.svg"></code>
 
-
-
-
-![Abhishek's github stats](https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&hide_border=true)
+![Abhishek's github stats](https://github-readme-stats.vercel.app/api?username=hoangansu9&show_icons=true&hide_border=true)
 
 
