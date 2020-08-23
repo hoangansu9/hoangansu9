@@ -11,7 +11,7 @@ Hi, I'm Su Hoang An, a final-year student 🚀 from HUFLIT. Beside's programming
 - 👨🏽‍💻 I’m currently studying
 - 🌱 I’m currently learning Reactjs and ASP.NET MVC
 - 📫 How to reach me: hoangansu9@gmail.com
-- 📝[Resume](https://drive.google.com/file/d/1AWEEl8GOCVQHJBxF5bpUDCgAHeqCl3WK/view?usp=sharing)
+- 📝[Resume](https://drive.google.com/file/d/1J6pblTGJ8fp8QDGOB4LDFKzCBFLgkIgo/view?usp=sharing)
 
 **Languages and Tools:**  
 
