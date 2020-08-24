@@ -24,6 +24,6 @@ Hi, I'm Su Hoang An, a final-year student 🚀 from HUFLIT. Beside's programming
 <code><img height="20" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"></code>
 
-![An's github stats](https://github-readme-stats.vercel.app/api?username=hoangansu9&show_icons=true&hide_border=true)
+![An's github stats](https://github-readme-stats.vercel.app/api?username=hoangansu9&show_icons=true&hide_border=true&theme=radical)
 
 
