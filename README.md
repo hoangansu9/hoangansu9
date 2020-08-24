@@ -5,7 +5,7 @@
 Hi, I'm Su Hoang An, a final-year student 🚀 from HUFLIT. Beside's programming, I enjoy listiening music and e-sport...
   
   <img  align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
- //<img align="right" alt="img" src="https://github-readme-stats.vercel.app/api?username=hoangansu9&show_icons=true&hide_border=true&theme=radical" />
+ 
   
 **Talking about Personal Stuffs:**
 
