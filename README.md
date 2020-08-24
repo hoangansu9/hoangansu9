@@ -3,8 +3,9 @@
 <br/>
 
 Hi, I'm Su Hoang An, a final-year student 🚀 from HUFLIT. Beside's programming, I enjoy listiening music and e-sport...
-
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+  
+  <img width="500px" align="right" alt="img" src="https://github-readme-stats.vercel.app/api?username=hoangansu9&show_icons=true&hide_border=true&theme=radical&card_width=500" />
+  <img  align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
   
 **Talking about Personal Stuffs:**
 
@@ -24,5 +25,3 @@ Hi, I'm Su Hoang An, a final-year student 🚀 from HUFLIT. Beside's programming
 <code><img height="20" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"></code>
-<img  align="right" alt="img" src="https://github-readme-stats.vercel.app/api?username=hoangansu9&show_icons=true&hide_border=true&theme=radical" />
-
