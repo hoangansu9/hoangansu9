@@ -14,7 +14,8 @@ Hi, I'm Su Hoang An, a final-year student 🚀 from HUFLIT. Beside's programming
 - 📝[Resume](https://drive.google.com/file/d/1J6pblTGJ8fp8QDGOB4LDFKzCBFLgkIgo/view?usp=sharing)
 
 **Languages and Tools:**  
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoangansu9&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<br/>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
@@ -23,7 +24,5 @@ Hi, I'm Su Hoang An, a final-year student 🚀 from HUFLIT. Beside's programming
 <code><img height="20" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"></code>
-
-![An's github stats](https://github-readme-stats.vercel.app/api?username=hoangansu9&show_icons=true&hide_border=true&theme=radical)
-
+<img  align="right" alt="img" src="https://github-readme-stats.vercel.app/api?username=hoangansu9&show_icons=true&hide_border=true&theme=radical" />
 
