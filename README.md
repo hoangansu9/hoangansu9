@@ -2,17 +2,13 @@
 
 <br/>
 
-Hi, I'm Su Hoang An, a final-year student 🚀 from HUFLIT. Beside's programming, I enjoy listiening music and e-sport...
+Hi, I'm Su Hoang An, a web developer. Beside's programming, I enjoy listiening music and e-sport...
   
   <img  align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
  
   
 **Talking about Personal Stuffs:**
-
-- 👨🏽‍💻 I’m currently studying
-- 🌱 I’m currently learning Reactjs and ASP.NET MVC
 - 📫 How to reach me: hoangansu9@gmail.com
-- 📝[Resume](https://drive.google.com/file/d/1J6pblTGJ8fp8QDGOB4LDFKzCBFLgkIgo/view?usp=sharing)
 
 **Languages and Tools:**  
 
